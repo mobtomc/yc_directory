@@ -553,7 +553,7 @@ export const PLAYLIST_BY_SLUG_QUERY =
 
 </details>
 
-## <a name="links">🔗 Assets</a>
+
 
 - Fonts and Assets used in the project can be found [here](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view?usp=sharing)
 - [Learn Server Actions](https://youtu.be/FKZAXFjxlJI?feature=shared)
